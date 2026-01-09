@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-demo-link.com">🌍 Live Demo</a> ·
+  <a href="https://horizon-api-explorer.vercel.app/">🌍 Live Demo</a> ·
   <a href="https://github.com/maruf009sultan/Horizon-API-Explorer/issues">🐞 Report Bug</a> ·
   <a href="https://github.com/maruf009sultan/Horizon-API-Explorer/issues">✨ Request Feature</a>
 </p>
